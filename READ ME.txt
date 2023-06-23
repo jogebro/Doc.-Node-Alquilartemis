@@ -4,6 +4,7 @@
 *  1. Abrimos la terminal y nos ubicamos en la carpeta backend con "cd backend/"      *
 *  2. Instalar el package.json con "npm init -y" desde la carpeta backend             *
 *  3. Instalar el Framework express con el comando "npm i express"                    *
+*  4. Instalar nodemon con el comando "npm i -D nodemon"                              *
 *                                                                                     *
 *       (DIRIGETE AL ARCHIVO index.js PARA EMPEZAR LA DOCUMENTACION :D)               *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

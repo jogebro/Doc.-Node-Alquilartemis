@@ -8,7 +8,7 @@ const main = () => {
     console.log(`Alquilartemis is running on port ${app.get("port")}`); //aqui podemos comprovar el consola si se esta ejecutando
 
     //8. Dirigete a package.json y dentro de ("scripts":) borra el ("text":)
-    //8.1. Creamos ahi mismo a ("dev": "node src/index.js")
+    //8.1. Creamos ahi mismo a ("dev": "nodemon src/index.js") Nota: debes tener nodemon instalado --- (ver READ ME.txt)
     //8.2. Ejecutar el archivo con   npm run dev  Nota: Recuerda que debes estar ubicado en backend
 }
 
