@@ -9,7 +9,7 @@ const main = () => {
 
     //8. Dirigete a package.json y dentro de ("scripts":) borra el ("text":)
     //8.1. Creamos ahi mismo a ("dev": "node src/index.js")
-    //8.2. Ejecutar el archivo con   npm run dev
+    //8.2. Ejecutar el archivo con   npm run dev  Nota: Recuerda que debes estar ubicado en backend
 }
 
 //1.2. La invocamos para que se este ejecutando --- (ir a app.js)
