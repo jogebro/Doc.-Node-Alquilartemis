@@ -1,3 +1,4 @@
+---------------------DERECHOS RESERVADOS A JOEL SANTIAGO ABRIL-------------------------
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 *  Aqui estan los pasos de la instalacion de archivos npm para su correcta ejecucion  *
 *                                                                                     *                                                        *
