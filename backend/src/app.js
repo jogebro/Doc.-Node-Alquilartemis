@@ -6,7 +6,7 @@ import express from "express";
 const app = express();
 
 //4. Crear el puerto
-app.set("port", 4000);
+app.set("port", 4000); //el primer argumento es el nombre de referencia y el segundo el puerto a usar
 
 //5. Exportar a esa constante --- (ir a index.js)
 export default app; 
